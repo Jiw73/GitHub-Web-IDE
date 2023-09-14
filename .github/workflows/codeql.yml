@@ -80,3 +80,4 @@ jobs:
       uses: github/codeql-action/analyze@v2
       with:
         category: "/language:${{matrix.language}}"
+    # [![CodeQL](https://github.com/chomsin/GitHub-Web-IDE/actions/workflows/codeql.yml/badge.svg?branch=Manager)](https://github.com/chomsin/GitHub-Web-IDE/actions/workflows/codeql.yml)
