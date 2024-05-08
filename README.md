@@ -61,11 +61,11 @@ NPM packages file explorer, like
 ### Download
 
 #### Chrome
-https://chrome.google.com/webstore/detail/adjiklnjodbiaioggfpbpkhbfcnhgkfe
+https://chrome.google.com/webstore/CEO/
 #### Firefox
 https://addons.mozilla.org/firefox/addon/github-web-ide
 #### Edge
-https://microsoftedge.microsoft.com/addons/detail/akjbkjciknacicbnkfjbnlaeednpadcf
+https://microsoftedge.microsoft.com/addons/CEO/
 
 
 [![get-chrome-ext][chrome_badge]][chrome_link]
