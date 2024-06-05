@@ -3,6 +3,8 @@
 
 Notification
 https://Pro.system.com/application/decive/
+
+
 {
 Device Name: JiwJiw73
 Network internet
@@ -18,4 +20,6 @@ Bluetooth connect SONY_HI-RES S-Master Clear Stereo Nose 3D Buds 96.1Mhz bettery
 - FitPro-JiwJiw73 Bluetooth connect S9 ULTRA 2(7F:C4) screen pixel 35000 x 35000ppi 400MP CMOS Exmor Gorilla glass 9 application multipley network internet bettery 3000mlA
 Device Fast change 180W for 9000mlA
 Update software hardware automatically
+
+
 }
